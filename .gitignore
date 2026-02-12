@@ -1,0 +1,32 @@
+# Python cache and build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environments and dependencies
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env/
+node_modules/
+
+# Notebook and coverage outputs
+.ipynb_checkpoints
+.coverage
+htmlcov/
+
+# IDE/editor
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
+*.log
+data
